@@ -2,77 +2,88 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				0
+				50,
+				130
 			],
-			"loop": false,
+			"loop": true,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Mom Idle"
+			"name": "Xeno2Idle"
 		},
 		{
 			"offsets": [
-				250,
-				-23
+				399,
+				88
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Mom Left Pose"
+			"name": "Xeno2Left"
 		},
 		{
 			"offsets": [
-				10,
-				-60
+				51,
+				66
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Mom Pose Left"
+			"name": "Xeno2Right"
 		},
 		{
 			"offsets": [
-				20,
-				-160
+				128,
+				30
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "MOM DOWN POSE"
+			"name": "Xeno2Down"
 		},
 		{
 			"offsets": [
-				14,
-				71
+				167,
+				229
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Mom Up Pose"
+			"name": "Xeno2Up"
+		},
+		{
+			"offsets": [
+				69,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Xeno2Laugh"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Mom_Assets",
+	"image": "characters/XenoP2",
 	"position": [
-		10,
-		-110
+		70,
+		130
 	],
-	"healthicon": "mom",
+	"healthicon": "beast",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		62,
+		0,
+		128
 	],
 	"camera_position": [
-		320,
-		140
+		-160,
+		-30
 	],
-	"sing_duration": 4,
+	"sing_duration": 5.8,
 	"scale": 1
 }
